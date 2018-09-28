@@ -1,0 +1,50 @@
+#main {
+    background-color: lightgray;
+    text-align: center;
+    border-radius: 5px;
+    width: 98%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    padding-bottom: 20px;
+}
+
+h1 {
+    padding-top: 30px;
+}
+
+#img-div {
+    background-color: white;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    width: 96%;
+}
+
+#img-caption {
+    padding-bottom: 20px;
+}
+
+#image {
+    padding-top: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#tribute-info {
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: left;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+#tribute-info h2 {
+    padding-top: 10px;
+}
